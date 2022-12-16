@@ -52,4 +52,5 @@ apt-get install -y --no-install-recommends \
 	libgdk-pixbuf2.0-dev \
 	liblua5.3-dev \
 	lua5.3 \
-	libxcb-xrm-dev
+	libxcb-xrm-dev \
+    lua-lgi
