@@ -54,3 +54,6 @@ apt-get install -y --no-install-recommends \
 	lua5.3 \
 	libxcb-xrm-dev \
     lua-lgi
+
+luarocks install lgi
+
