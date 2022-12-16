@@ -51,4 +51,5 @@ apt-get install -y --no-install-recommends \
 	libgirepository1.0-dev \
 	libgdk-pixbuf2.0-dev \
 	liblua5.3-dev \
-	lua5.3
+	lua5.3 \
+	libxcb-xrm-dev
