@@ -1,0 +1,3 @@
+[submodule "awesomei"]
+	path = awesomei
+	url = https://github.com/whilei/awesomewm-config.git
